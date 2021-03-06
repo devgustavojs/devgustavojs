@@ -8,9 +8,9 @@
 
 - ▶️ I regulary post videos on [instagram.com/_code.art](https://instagram.com/_code.art)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **JavaScript, HTML, CSS, NodeJS, React/React-Native**
 
-- 📫 How to reach me **GustsgomesBr**
+- 📫 How to reach me **GustsgomesBr@hotmail.com**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
