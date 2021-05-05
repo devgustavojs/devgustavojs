@@ -8,7 +8,7 @@
 
 - ▶️ I regulary post videos on [instagram.com/_code.art](https://instagram.com/_code.art)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, NodeJS, React/React-Native**
+- 💬 Ask me about **JavaScript, HTML, CSS, NodeJS, React e VueJs**
 
 - 📫 How to reach me **GustsgomesBr@hotmail.com**
 
