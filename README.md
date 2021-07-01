@@ -1,27 +1,41 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Gomes</h1>
-<h3 align="center">A Full-Stack web developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devgustavojs" alt="devgustavojs" /> </p>
+# Olá mundo!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-- 🔭 I’m currently open to work
+## Meu nome é Gustavo Gomes e estou no mundo de desenvolvimento desde 2015.
 
-- 👨‍💻 All of my projects are available here
-
-- ▶️ I regulary post videos on [instagram.com/_code.art](https://instagram.com/_code.art)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, NodeJS, React**
-
-- 📫 How to reach me **GustsgomesBr@hotmail.com**
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devgustavojs&show_icons=true" alt="devgustavojs"/> 
+## Meus contatos:
+<p align='left'>
+    <a href="https://www.linkedin.com/in/gustavo-da-silva-gomes-0b3b00194/" target=”_blank”>
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/_code.art/" target=”_blank”>
+    ​   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://devgustavojs.github.io/novo-portfolio" target=”_blank”>
+    ​   <img src="https://img.shields.io/badge/Portfolio-%835AFD.svg?&style=for-the-badge&logo=google&logoColor=white" />
+    </a>
 </p>
+        
+## Quer saber mais sobre mim?
 
-<p align="center">
-<a href="https://www.linkedin.com/in/gustavo-da-silva-gomes-0b3b00194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devgustavojs" height="20" width="20" /></a>
-<a href="https://instagram.com/_code.art" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="devgustavojs" height="20" width="20" /></a>
+- Eu busco me especializar como desenvolvedor Full-Stack
+- Sou apaixonado por UX/UI Design.
+- Sou aluno da terceira turma de Reactjs do Ignite.
+
+
+
+## Skills
+
+<p align='left'>
+
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</br>
+![CCS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</br>
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)</br>
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 </p>
+</br>
+
+![devgustavojs's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgustavojs&show_icons=true&theme=react)
