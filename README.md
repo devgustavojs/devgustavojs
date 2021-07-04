@@ -1,4 +1,4 @@
-# Olá mundo!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+# Olá, mundo!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 ## Meu nome é Gustavo Gomes e estou no mundo de desenvolvimento desde 2015. Entre em contato comigo, vamos conversar sobre tecnologia :>
 
