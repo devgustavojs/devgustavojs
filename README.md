@@ -38,5 +38,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 </p>
 </br>
-
-![devgustavojs's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgustavojs&show_icons=true&theme=react)
