@@ -15,7 +15,7 @@
     <a href="https://www.instagram.com/_code.art/" target=”_blank”>
     ​   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://devgustavojs.github.io/novo-portfolio" target=”_blank”>
+    <a href="https://gustavosgdev.github.io/novo-portfolio" target=”_blank”>
     ​   <img src="https://img.shields.io/badge/-MEU PORTFOLIO-blue?style=for-the-badge&logo=google&logoColor=white" />
     </a>
     <a href="mailto:gustavosgdev@outlook.com" target=”_blank”>
