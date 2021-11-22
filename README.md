@@ -5,7 +5,6 @@
 - Estou buscando me especializar como desenvolvedor Full-Stack
 - Sou apaixonado por UX/UI Design.
 - Sou aluno da terceira turma de Reactjs do Ignite.
-- Estou em busca de oportunidades de emprego como Front-end ReactJs
 
 ## Meus contatos:
 <p align='left'>
