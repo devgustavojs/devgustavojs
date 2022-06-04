@@ -1,4 +1,4 @@
-# Olá, mundo!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+# Olá, mundo! 😀
 
 ## Sobre mim:
 
