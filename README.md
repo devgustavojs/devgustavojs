@@ -3,9 +3,9 @@
 ## Sobre mim:
 
 - Estou buscando me especializar como desenvolvedor Front-End / Mobile
-- Sou apaixonado por UX/UI Design.
-- Sou aluno da terceira turma de Reactjs do Ignite.
-- React + Typescript + Sass = 💜
+- Apaixonado por UX/UI Design.
+- Aluno da terceira turma de Reactjs do Ignite.
+- React + Typescript = 💜
 
 ## Meus contatos:
 <p align='left'>
