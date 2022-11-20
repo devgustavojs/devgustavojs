@@ -1,13 +1,17 @@
-# Olá, mundo! 😀
+# Hello world! 😀
 
-## Sobre mim:
+## About me:
 
-- Estou buscando me especializar como desenvolvedor Front-End / Mobile
-- Apaixonado por UX/UI Design.
-- Aluno da terceira turma de Reactjs do Ignite.
-- React + Typescript = 💜
+- In love with Software Engineering since 2015.
+- Front-end specialist Developer.
+- Passionate in UX/UI Design.
+- Ignite Reactjs Alumni.
+- React + Tailwindcss + Typescript = 💜
+- Science Computer Student 👨‍🎓
+- ReactJs, NextJs, VueJs, KnockoutJs, Tailwindcss, Sass, Less, Typescript.
+- Mid level Front-end Specialist at <a href="https://pegaplantao.com.br" target="_blank">Pega Plantão</a>
 
-## Meus contatos:
+## Find me:
 <p align='left'>
     <a href="https://www.linkedin.com/in/gustavo-da-silva-gomes-0b3b00194/" target=”_blank”>
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,7 +19,7 @@
     <a href="https://www.instagram.com/_code.art/" target=”_blank”>
     ​   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://gustavosgdev.github.io/novo-portfolio" target=”_blank”>
+    <a href="https://code-art.dev" target=”_blank”>
     ​   <img src="https://img.shields.io/badge/-MEU PORTFOLIO-blue?style=for-the-badge&logo=google&logoColor=white" />
     </a>
     <a href="mailto:gustavosgdev@outlook.com" target=”_blank”>
