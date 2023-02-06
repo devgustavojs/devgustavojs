@@ -7,7 +7,7 @@
 - Passionate in UX/UI Design.
 - Ignite Reactjs Alumni.
 - React + Tailwindcss + Typescript = 💜
-- Science Computer Student 👨‍🎓
+- Computer Science Student 👨‍🎓
 - ReactJs, NextJs, VueJs, KnockoutJs, Tailwindcss, Sass, Less, Typescript.
 - Mid level Front-end Specialist at <a href="https://pegaplantao.com.br" target="_blank">Pega Plantão</a>
 
