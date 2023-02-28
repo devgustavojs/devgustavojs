@@ -5,7 +5,7 @@
 - In love with Software Engineering since 2015.
 - Front-end specialist Developer.
 - Passionate in UX/UI Design.
-- Ignite Reactjs Alumni.
+- Rocketseat Ignite Alumni.
 - React + Tailwindcss + Typescript = 💜
 - Computer Science Student 👨‍🎓
 - ReactJs, NextJs, VueJs, KnockoutJs, Tailwindcss, Sass, Less, Typescript.
